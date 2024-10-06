@@ -1,0 +1,116 @@
+body
+{
+    background-color: grey;
+}
+
+strike
+{
+    color: red;
+}
+
+#title
+{
+    color: aquamarine;
+    display: flex;
+    justify-content: center;
+    margin-left: 45%;
+    margin-right: 35%;
+    padding:auto;
+    background-color: white;
+    border: 10cm;
+    border-radius: 0%;
+}
+
+#div1
+{
+    width: px;
+}
+
+#text1
+{
+    border: 10px solid black;
+    border-radius: 2px;
+    color: black;
+    background-color: white;
+    justify-content: flex-start;
+    margin-left: 1cm;
+    margin-right: 20cm;
+    border-radius: 5%;
+    width: 200px;
+    padding: 1.5cm;
+}
+
+#titulo2
+{
+    margin-left: 11.5cm;
+    color: aqua;
+}
+
+#l1
+{
+    background-color: black;
+}
+
+#l2
+{
+    background-color: greenyellow;
+}
+
+#cuadro2
+{
+    border: 10px solid black;
+    border-radius: 2px;
+    color: black;
+    background-color: burlywood;
+    justify-content: center;
+    margin-left: auto;
+    border-radius: 5%;
+    width: 200px;
+    padding: 1.5cm;
+}
+
+#titulo3
+{
+    margin-left: 11.5cm;
+    color: aqua;
+}
+
+#texto
+{
+    margin-left: 11.5cm;
+}
+
+#div1 
+{
+    border: 100px solid aliceblue;
+}
+  
+div#divCustom 
+{
+    border: 5px dotted black;
+}
+   
+ 
+ #div2 
+ {
+    border: 100px solid maroon;
+ }
+ 
+ #div3 
+ {
+    border: 100px solid aliceblue;
+ }
+  
+
+#texto
+{
+    margin: 1.5cm;
+    text-align: center;
+}
+
+.tachado 
+{
+    text-decoration: line-through;
+    color: red;
+}
+    
