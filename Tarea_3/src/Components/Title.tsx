@@ -1,8 +1,4 @@
-type Props = {
-title? : string
-}
-
-const MyTitle = (props : Props) => {
+const MyTitle = () => {
     return <>
         <h1 id="title">Tarea de CSS</h1>
     </>

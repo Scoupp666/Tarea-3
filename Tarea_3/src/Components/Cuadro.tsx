@@ -1,6 +1,6 @@
-type Props = {}
 
-const Cuadro = (props: Props) => {
+
+const Cuadro = () => {
   return (
    <>
    <div id="div1">

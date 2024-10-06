@@ -10,7 +10,7 @@ import Cuadro from './Components/Cuadro';
 function App() {
   return (
     <>
-      <MyTitle title='Hola'/>
+      <MyTitle />
       <Paragraph />
       <Paragraph2 />
       <Paragraph3 title='Alineado Derecha'/>

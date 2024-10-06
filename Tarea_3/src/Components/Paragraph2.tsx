@@ -1,6 +1,6 @@
-type Props = {}
 
-const paragraph2 = (props: Props) => {
+
+const paragraph2 = () => {
   return (
     <> 
     <h1 id="titulo2">ListaPares</h1>

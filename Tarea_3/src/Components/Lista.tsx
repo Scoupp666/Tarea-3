@@ -1,6 +1,6 @@
-type Props = {}
 
-const Lista = (props: Props) => {
+
+const Lista = () => {
   return (
     <>
     <h1 id="titulo3">Lista3ros</h1>
